@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy sburgos28 👋
 
-<!--
-**sburgos28/sburgos28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encuentro enfocando toda mi energía en dominar el desarrollo Frontend, creando interfaces web interactivas y accesibles.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que estoy repasando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
+
+## 🛠️ Entorno y Herramientas
+
+<p align="left">
+  <img src="https://shields.io" alt="Arch Linux" />
+  <img src="https://shields.io" alt="Bash" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
