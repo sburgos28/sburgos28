@@ -2,7 +2,7 @@
 
 Desarrollador web junior con base en frontend y experiencia práctica en backend con C#, .NET y MySQL. Titulado en DAW, repasando y reforzando HTML, CSS y JavaScript para dar el salto a mi primer empleo.
 
-🔗 **[Mira mi portafolio](https://sburgos28.github.io/portfolio/)** · **[BookShelf API](https://github.com/sburgos28/BookShelf)**
+🔗 **[Mira mi portafolio](https://sburgos28.github.io/portfolio/)**
 
 **Frontend**
 
