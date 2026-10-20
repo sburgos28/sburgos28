@@ -14,11 +14,7 @@ Desarrollador web junior con base en frontend y experiencia práctica en backend
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 **Entorno y herramientas**
 
@@ -31,7 +27,6 @@ Desarrollador web junior con base en frontend y experiencia práctica en backend
 **APIs y datos**
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ---
